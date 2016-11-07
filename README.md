@@ -35,3 +35,17 @@ Relevant links for more information:
 http://blog.whatgeek.com.pt/2015/03/arduino-l293d-dc-motors-control/
 https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/lm293d
 http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/step2/Advanced-implementation/
+
+
+
+Obstacle Avoidance Robot:
+
+
+Light Follower Robot:
+
+
+Controlling programmable DC motor and LCD, 
+https://www.packtpub.com/books/content/programmable-dc-motor-controller-lcd
+
+with Bluetooth integration:
+http://www.instructables.com/id/Arduino-Control-DC-Motor-via-Bluetooth/
