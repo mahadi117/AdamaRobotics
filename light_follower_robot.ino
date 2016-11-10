@@ -22,34 +22,38 @@ void loop()
   difference = abs(rightValue-leftValue);               //calculate the difference between the two values
   //Serial.println(rightValue);
   //delay(500);
-  Serial.println("left LDR: "leftValue,"right LDR: "rightValue);
+  Serial.write("left LDR:");
+  Serial.println(leftValue);
+  Serial.write("right LDR:"); 
+  Serial.println(rightValue);
+  delay(1000);                                            //if not then...
+ if(rightValue > 15 && leftValue> 15){
+  moveForward();
   delay(1000);
-  if(difference < 90)                                   //if the difference is less than 50 then...
-  {
-    moveForward();                                      //the robot will move forward
-  }
-  else                                                  //if not then...
-  {
-   if(rightValue > leftValue)                           //is it darker on the right hand side?
+     if(rightValue > leftValue)                           //is it darker on the right hand side?
     {
-     moveLeft();  //light follow                        //if so then turn left
-     //moveRight();  //light avoid
+     //moveLeft();  //light follow                        //if so then turn left
+     moveRight();  //light avoid
     } 
     else
     {
-     moveRight(); //light follow                        //if it isn't then turn right
-     //moveLeft();  //light avoid
-    }
+     //moveRight(); //light follow                        //if it isn't then turn right
+     moveLeft();  //light avoid
+    } 
+ }
+  else{
+    motor_stop();
+    delay(1000);
+    } 
   }
-}
 
 void moveForward()
 {
-        digitalWrite(4,HIGH);
-        digitalWrite(6,LOW);
-        digitalWrite(5,HIGH);
-        digitalWrite(7,LOW);
-        delay (500);
+        digitalWrite(4,LOW);
+        digitalWrite(6,HIGH);
+        digitalWrite(5,LOW);
+        digitalWrite(7,HIGH);
+        delay (100);
 
 }
 
@@ -57,18 +61,27 @@ void moveLeft()
 {
         digitalWrite(4,LOW);
         digitalWrite(6,LOW);
-        digitalWrite(5,HIGH);
-        digitalWrite(7,LOW);
-        delay (500);
+        digitalWrite(5,LOW);
+        digitalWrite(7,HIGH);
+        delay (100);
 
 }
 
 void moveRight()
 {
-        digitalWrite(4,HIGH);
+        digitalWrite(4,LOW);
+        digitalWrite(6,HIGH);
+        digitalWrite(5,LOW);
+        digitalWrite(7,LOW);
+        delay (100);
+
+}
+void motor_stop()
+{
+        digitalWrite(4,LOW);
         digitalWrite(6,LOW);
         digitalWrite(5,LOW);
         digitalWrite(7,LOW);
-        delay (500);
+        delay (100);
 
 }
