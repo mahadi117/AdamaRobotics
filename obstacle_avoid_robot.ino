@@ -1,10 +1,12 @@
 //Defining the pins before the setup
 #define echopin 9
 #define trigpin 8
-#define motorLeft2 3
-#define motorRight2 5
 #define motorLeft1 6
+#define motorLeft2 3
 #define motorRight1 7
+#define motorRight2 5
+
+
 
 
 
