@@ -5,34 +5,42 @@
 This is the repository for our Adama Robotics kits.
 Here you can find the codes for our kits. 
 
-Want to learn to code and/or to use Arduino? Whether you're new to programming or a pro, the capabilities of our Adama Robotics kit will allow you to grow your basics hardware and software skills by applying in the real world. Many combinations of programming are possible. Write your code using C programming in the Arduino IDE, the free and open source Arduino environment. Our easy to use guide will allow seamless flexibility of learning and our platform will make the communication in the stronger and make room for simple competitions. 
+<h2> Do you want to learn robotics? Are you a robotics enthusiast? Are you a maker? Do you want to learn programming? Do you want to improve your basic electronics skills? </h2>
 
-Do you want to learn to make robots?
-<li><strong>Learn and expand your Programming knowledge.</strong></li>
-<li><strong>Design your own autonomous Skippy missions</strong></li>
-<li><strong>Learn and expand Electronics skills.</strong></li>
-<li><strong>Participate in the competitions with your friends.</strong></li>
-<li><strong>Flexibility for unlimited DIY projects</strong></li>
 
-</hr>
+We produce educational robotics kits which can give you the basics of robotics. We would start with initial coding that is required to program your first robot. Whether you're new to programming or a pro, our kits will allow you to grow your skills further by applying it in the real world. Our kits also would give you a hands on experience on electronic prototyping which is a important must have skill now!. 
+
+Our easy to use guide will allow seamless flexibility of learning and our platform will make the communication in your communities stronger and make room for simple competitions. Whether you want to create competitions in your community or Have a robot war! You could get all the skills needed for the next era here. 
+
+<h3> You know in the next 10 years everything is going to be automated! The skill of programming and controlling the robots would be vital. Infact it already started with the big companies working seamlessly for it. The autonomous self-driving car is almost here! Get ready for the adventure with us!</h3>
+
+We would like to help you take the first step <a href ="www.adamarobotics.com">here.</a> 
+
 <h3> Application of learnings </h3>
+
+<li><strong>DIY Home automation</strong></li>
 <li><strong>Creation of intelligent and automated systems </strong></li>
 <li><strong>Industrial automated equipment carriers.</strong></li>
 <li><strong>Automated cars.</strong></li>
-<li><strong>Tour guides in museums and other similar applications.    </strong></li>
+<li><strong>Tour guides in museums and other similar applications.</strong></li>
 <li><strong>Deliver mail within the office building.</strong></li>
 <li><strong>Deliver medications in a hospital.</strong></li>
 
+</hr>
+</hr>
+
+
 <h3>Robotics as a Learning Platform</h3>
+
 The Adama Robotics kit was designed to be the ultimate robot for teaching, learning, hacking, and research for beginners. It is perfect for those just getting started in programming and Robotics automation research.
 The Adama Kit will give you endless opportunities to hack the DIY world. It is combined with Arduino Microcontroller and the Sensors.
 
 <h3> Good Hardware and Gear Motors </h3>
+
 The Adama Kit is built using high quality components. The pan/tilt head assembly, motor mounts, servo mounts, and connecting hardware are stamped metal parts for maximum durability. 
 
-<h3> Easy Access to Ports </h3>
+<h3> Assemble from a Kit </h3>
 
-<h3> Assembled from a Kit </h3>
 The Adama Kit is shipped as you will assemble yourself with basic hand tools. We will populate all the electronic parts on the boards so no soldering is necessary. Assembly hardware and parts are included.
 
 <h3> Get the robot at our site. </h3>
