@@ -8,32 +8,32 @@ Here you can find the codes for our kits.
 Want to learn to code and/or to use Arduino? Whether you're new to programming or a pro, the capabilities of our Adama Robotics kit will allow you to grow your basics hardware and software skills by applying in the real world. Many combinations of programming are possible. Write your code using C programming in the Arduino IDE, the free and open source Arduino environment. Our easy to use guide will allow seamless flexibility of learning and our platform will make the communication in the stronger and make room for simple competitions. 
 
 Do you want to learn to make robots?
-<li><strong>	Learn and expand your Programming knowledge.</strong></li>
-<li><strong>	Design your own autonomous Skippy missions</strong></li>
-<li><strong>	Learn and expand Electronics skills.</strong></li>
-<li><strong>	Participate in the competitions with your friends.</strong></li>
-<li><strong>	Flexibility for unlimited DIY projects</strong></li>
+<li><strong>Learn and expand your Programming knowledge.</strong></li>
+<li><strong>Design your own autonomous Skippy missions</strong></li>
+<li><strong>Learn and expand Electronics skills.</strong></li>
+<li><strong>Participate in the competitions with your friends.</strong></li>
+<li><strong>Flexibility for unlimited DIY projects</strong></li>
 
-
-Robotics as a Learning Platform
+</hr>
+<h3>Robotics as a Learning Platform</h3>
 The Adama Robotics kit was designed to be the ultimate robot for teaching, learning, hacking, and research for beginners. It is perfect for those just getting started in programming and Robotics automation research.
 The Adama Kit will give you endless opportunities to hack the DIY world. It is combined with Arduino Microcontroller and the Sensors.
 
-Good Hardware and Gear Motors
+<h3> Good Hardware and Gear Motors </h3>
 The Adama Kit is built using high quality components. The pan/tilt head assembly, motor mounts, servo mounts, and connecting hardware are stamped metal parts for maximum durability. 
 
-Easy Access to Ports
+<h3> Easy Access to Ports </h3>
 
-Assembled from a Kit
+<h3> Assembled from a Kit </h3>
 The Adama Kit is shipped as you will assemble yourself with basic hand tools. We will populate all the electronic parts on the boards so no soldering is necessary. Assembly hardware and parts are included.
 
-Get the robot at our site. 
+<h3> Get the robot at our site. </h3>
 - www.adamarobotics.com 
 
 
 Skippy - Obstacle Avoidance Robot:
 
-![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/skippy.jpg?raw=true "Skippy - Obstacle Avoidance Robot")
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/skippy.jpg?raw=true "Skippy - Obstacle Avoidance Robot" width="400" height="400")
 
 Sunny - Light Follower Robot:
 
