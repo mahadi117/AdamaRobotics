@@ -1,18 +1,21 @@
 # AdamaRobotics
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/cropped-LogoAdamaRobotics.jpg?raw=true "Adama Robotics")
+
 
 This is the repository for our Adama Robotics kits.
-Arduino codes and what our platform is about will be given here. 
+Here you can find the codes for our kits. 
 
 Want to learn to code and/or to use Arduino? Whether you're new to programming or a pro, the capabilities of our Adama Robotics kit will allow you to grow your basics hardware and software skills by applying in the real world. Many combinations of programming are possible. Write your code using C programming in the Arduino IDE, the free and open source Arduino environment. Our easy to use guide will allow seamless flexibility of learning and our platform will make the communication in the stronger and make room for simple competitions. 
 
 Do you want to learn to make robots?
+<strong>
 	Learn and expand your Programming knowledge.
 	Design your own autonomous Skippy missions
 	Learn and expand Electronics skills.
 	Learn and share experiences with friends in our platform.
 	Participate in the competitions with your friends.
 	Flexibility for unlimited DIY projects 
-
+</strong>
 
 Robotics as a Learning Platform
 The Adama Robotics kit was designed to be the ultimate robot for teaching, learning, hacking, and research for beginners. It is perfect for those just getting started in programming and Robotics automation research.
@@ -26,6 +29,35 @@ Easy Access to Ports
 Assembled from a Kit
 The Adama Kit is shipped as you will assemble yourself with basic hand tools. We will populate all the electronic parts on the boards so no soldering is necessary. Assembly hardware and parts are included.
 
+Get the robot at our site. 
+- www.adamarobotics.com 
+
+
+Skippy - Obstacle Avoidance Robot:
+
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/skippy.jpg?raw=true "Skippy - Obstacle Avoidance Robot")
+
+Sunny - Light Follower Robot:
+
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/sunny.jpg?raw=true "Sunny - Light Follower Robot")
+
+Newton - Line Follower Robot:
+
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/newton.jpg?raw=true "Newton - Line Follower Robot")
+
+Zippy - Obstacle + Light follower robot
+
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/zippy.jpg?raw=true "Zippy - Light and Obstacle Follower Robot")
+
+
+
+Resources: 
+Controlling programmable DC motor and LCD, 
+https://www.packtpub.com/books/content/programmable-dc-motor-controller-lcd
+
+with Bluetooth integration:
+http://www.instructables.com/id/Arduino-Control-DC-Motor-via-Bluetooth/
+
 Schematics for Controlling DC Motors:
 https://www.google.co.uk/search?q=Schematics+for+Controlling+DC+Motors:+arduino&rlz=1C1JZAP_enGB695GB695&biw=1280&bih=542&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU96eou5XQAhVEI8AKHckCCB4Q_AUIBigB#imgrc=JC93M-npKguR_M%3A
 
@@ -36,16 +68,3 @@ http://blog.whatgeek.com.pt/2015/03/arduino-l293d-dc-motors-control/
 https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/lm293d
 http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/step2/Advanced-implementation/
 
-
-
-Obstacle Avoidance Robot:
-
-
-Light Follower Robot:
-
-
-Controlling programmable DC motor and LCD, 
-https://www.packtpub.com/books/content/programmable-dc-motor-controller-lcd
-
-with Bluetooth integration:
-http://www.instructables.com/id/Arduino-Control-DC-Motor-via-Bluetooth/
