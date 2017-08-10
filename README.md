@@ -8,7 +8,7 @@ Here you can find the codes for our kits.
 Want to learn to code and/or to use Arduino? Whether you're new to programming or a pro, the capabilities of our Adama Robotics kit will allow you to grow your basics hardware and software skills by applying in the real world. Many combinations of programming are possible. Write your code using C programming in the Arduino IDE, the free and open source Arduino environment. Our easy to use guide will allow seamless flexibility of learning and our platform will make the communication in the stronger and make room for simple competitions. 
 
 Do you want to learn to make robots?
-<strong>
+<ul><strong>
 	Learn and expand your Programming knowledge.
 	Design your own autonomous Skippy missions
 	Learn and expand Electronics skills.
@@ -16,6 +16,7 @@ Do you want to learn to make robots?
 	Participate in the competitions with your friends.
 	Flexibility for unlimited DIY projects 
 </strong>
+</ul>
 
 Robotics as a Learning Platform
 The Adama Robotics kit was designed to be the ultimate robot for teaching, learning, hacking, and research for beginners. It is perfect for those just getting started in programming and Robotics automation research.
