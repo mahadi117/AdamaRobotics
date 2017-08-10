@@ -33,7 +33,7 @@ The Adama Kit is shipped as you will assemble yourself with basic hand tools. We
 
 Skippy - Obstacle Avoidance Robot:
 
-![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/skippy.jpg?raw=true "Skippy - Obstacle Avoidance Robot" width="400" height="400")
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/skippy.jpg=400*400?raw=true "Skippy - Obstacle Avoidance Robot" )
 
 Sunny - Light Follower Robot:
 
