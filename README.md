@@ -15,6 +15,14 @@ Do you want to learn to make robots?
 <li><strong>Flexibility for unlimited DIY projects</strong></li>
 
 </hr>
+<h3> Application of learnings </h3>
+<li><strong>Creation of intelligent and automated systems </strong></li>
+<li><strong>Industrial automated equipment carriers.</strong></li>
+<li><strong>Automated cars.</strong></li>
+<li><strong>Tour guides in museums and other similar applications.    </strong></li>
+<li><strong>Deliver mail within the office building.</strong></li>
+<li><strong>Deliver medications in a hospital.</strong></li>
+
 <h3>Robotics as a Learning Platform</h3>
 The Adama Robotics kit was designed to be the ultimate robot for teaching, learning, hacking, and research for beginners. It is perfect for those just getting started in programming and Robotics automation research.
 The Adama Kit will give you endless opportunities to hack the DIY world. It is combined with Arduino Microcontroller and the Sensors.
