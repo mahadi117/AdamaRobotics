@@ -6,6 +6,9 @@ This repository contains the codes for educational robotics kits by Adama Roboti
 
 <h2> Do you want to learn robotics? Are you a robotics enthusiast? Are you a maker? Do you want to learn programming? Do you want to improve your basic electronics skills? </h2>
 
+![Alt text](http://www.adamarobotics.com/wp-content/uploads/2017/07/Adama-Cover-2.jpg?raw=true "Adama Robotics")
+
+
 
 We produce educational robotics kits which can give you the basics of robotics. We would start with initial coding that is required to program your first robot. Whether you're new to programming or a pro, our kits will allow you to grow your skills further by applying it in the real world. Our kits also would give you a hands on experience on electronic prototyping which is a important must have skill now!. 
 
